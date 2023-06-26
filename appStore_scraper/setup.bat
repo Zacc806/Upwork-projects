@@ -1,0 +1,1 @@
+python -m venv appscraper & .\appscraper\Scripts\activate & pip install -r requirements.txt & python appStore_scraper.py & PAUSE
